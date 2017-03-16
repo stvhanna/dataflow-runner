@@ -67,6 +67,7 @@
           "Mapreduce.user.classpath.first": "true"
         }
       }
-    ]
+    ],
+    "applications": [ "Hadoop", "Spark" ]
   }
 }
